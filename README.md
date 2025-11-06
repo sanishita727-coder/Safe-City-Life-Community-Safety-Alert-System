@@ -11,4 +11,3 @@ Modern cities face critical safety challenges:
 - 📍 No accessible platform to view real-time safety risks
 
 SafeCity Life bridges this gap by creating a unified community safety network.
-
